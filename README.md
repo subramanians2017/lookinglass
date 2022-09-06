@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subramanians2017
+- 👋 Hi, I’m Subramanian
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on some projects
